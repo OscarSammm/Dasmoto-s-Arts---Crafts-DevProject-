@@ -1,0 +1,18 @@
+h1{
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg);
+    text-align: center;
+    font-size: 100px;
+    color: beige;
+}
+
+#brush{
+    background-color: chartreuse;
+    text-align: left;
+}
+
+.item h2{
+    font-size: 20px;
+    color: darkgray;
+}
+
+
